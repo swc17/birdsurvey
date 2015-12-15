@@ -1,8 +1,8 @@
-# All rights reserved"
+# All rights reserved
 
 # Analyze bird counts
 
-Read data file
+Read data file, blue line
 
 Run analysis
 
