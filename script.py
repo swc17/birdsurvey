@@ -8,3 +8,5 @@ Save table
 
 Save small figure
 
+Make header bold
+
